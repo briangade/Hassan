@@ -1,0 +1,67 @@
+<Configuration>
+  <Remove>
+    <Product ID="O365ProPlusRetail">
+      <Language ID="MatchOS" />
+      <Language ID="en-US" />
+      <Language ID="zh-CN" />
+      <Language ID="fr-FR" />
+      <Language ID="de-DE" />
+      <Language ID="it-IT" />
+      <Language ID="ja-JP" />
+      <Language ID="ko-KR" />
+      <Language ID="pt-BR" />
+      <Language ID="es-ES" />
+    </Product>
+    <Product ID="ProjectProXVolume">
+      <Language ID="MatchOS" />
+      <Language ID="en-US" />
+      <Language ID="zh-CN" />
+      <Language ID="fr-FR" />
+      <Language ID="de-DE" />
+      <Language ID="it-IT" />
+      <Language ID="ja-JP" />
+      <Language ID="ko-KR" />
+      <Language ID="pt-BR" />
+      <Language ID="es-ES" />
+    </Product>
+	<Product ID="ProjectProRetail">
+      <Language ID="MatchOS" />
+      <Language ID="en-US" />
+      <Language ID="zh-CN" />
+      <Language ID="fr-FR" />
+      <Language ID="de-DE" />
+      <Language ID="it-IT" />
+      <Language ID="ja-JP" />
+      <Language ID="ko-KR" />
+      <Language ID="pt-BR" />
+      <Language ID="es-ES" />
+    </Product>
+    <Product ID="VisioProXVolume">
+      <Language ID="MatchOS" />
+      <Language ID="en-US" />
+      <Language ID="zh-CN" />
+      <Language ID="fr-FR" />
+      <Language ID="de-DE" />
+      <Language ID="it-IT" />
+      <Language ID="ja-JP" />
+      <Language ID="ko-KR" />
+      <Language ID="pt-BR" />
+      <Language ID="es-ES" />
+    </Product>
+    <Product ID="VisioProRetail">
+      <Language ID="MatchOS" />
+      <Language ID="en-US" />
+      <Language ID="zh-CN" />
+      <Language ID="fr-FR" />
+      <Language ID="de-DE" />
+      <Language ID="it-IT" />
+      <Language ID="ja-JP" />
+      <Language ID="ko-KR" />
+      <Language ID="pt-BR" />
+      <Language ID="es-ES" />
+    </Product>
+  </Remove>
+  <Logging Level="Standard" Path="%temp%" />
+  <Display Level="None" AcceptEULA="TRUE" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+</Configuration>
